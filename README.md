@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ai-driven-media-investment-plan.git
+git clone https://github.com/sabari-07/ai-driven-media-investment-plan.git
 cd ai-driven-media-investment-plan
 Install the required libraries:
 
